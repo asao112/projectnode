@@ -1,8 +1,4 @@
-<template>
-  <div>
-    <p>HelloWorld!</p>
-  </div>
-</template>
+
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
